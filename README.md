@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Duminda-SLIIT
+- 👋 Hi, I’m @Duminda-SLIIT (IT15061058-D.G.Kodagoda)
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on ITP Project
